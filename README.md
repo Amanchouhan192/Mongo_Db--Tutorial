@@ -22,3 +22,10 @@ MongoDB is an [open-source](https://opensource.com/resources/what-open-source) [
 > open the system ```window``` and select **property** on right ``click`` and select **advance system setting** and select **enviornment variable** and 
 > select the **path and after bin pase semiclon** **;** and paste the path of your files where ```mongod ans mongodb``` files are place. 
 > click **ok ok ok now open cmd and run mongodb.exe**, and hence you can access mongodb anywher else in the ``machine``.
+* Download [**MongoChef**](https://studio3t.com)
+* Make the account for download..
+# Commands 
+> there is the Important [**commands**](https://docs.mongodb.com/manual/reference/command/) for Mongodb.
+
+# Please contribute 
+> pls help if you think something missing
