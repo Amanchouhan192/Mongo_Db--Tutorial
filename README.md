@@ -17,3 +17,8 @@ MongoDB is an [open-source](https://opensource.com/resources/what-open-source) [
  * And start the cmd and then run the file mongod.exe it will tun perfectly. And open the one more window of cmd ,start the **mongo.exe**
  <a href="http://www.4GP.ME/bbtc/1515754233579.jpg"><img src="http://www.4GP.ME/bbtc/1515754233579.jpg" border="0" alt="Resim hosting: UploadEdit.com"></a>
 * ```Greate``` your mongodb is installed correctly........
+# Install MongoChef (now Studio 3T) (MongoDB GUI Tool)
+* first of all you should change the **path or make the path for the gui** .
+> open the system ```window``` and select **property** on right ``click`` and select **advance system setting** and select **enviornment variable** and 
+> select the **path and after bin pase semiclon** **;** and paste the path of your files where ```mongod ans mongodb``` files are place. 
+> click **ok ok ok now open cmd and run mongodb.exe**, and hence you can access mongodb anywher else in the ``machine``.
