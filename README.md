@@ -9,4 +9,11 @@ MongoDB is an [open-source](https://opensource.com/resources/what-open-source) [
 * After download the MongoDb ```software``` check the ```folder``` and  **setupfiles** **Mongo.exe** and ***Mongod.exe***.
 ``` C:>programmfile>MongoDb>server>3.6>bin ```
 > Here 3.6 is the version of the mongodb which is downloaded.
- 
+* OPen cmd and start the file **Mongod.exe** which showing you an error after running on cmd 
+<a href="http://www.4GP.ME/bbtc/1515753836256.jpg"><img src="http://www.4GP.ME/bbtc/1515753836256.jpg" border="0" alt="Resim hosting: UploadEdit.com"></a>
+```c:\data\db\ not found```
+* for removing the error make the folder data in the **c drive file and db folder in the data**.
+```c:\data\db```
+ * And start the cmd and then run the file mongod.exe it will tun perfectly. And open the one more window of cmd ,start the **mongo.exe**
+ <a href="http://www.4GP.ME/bbtc/1515754233579.jpg"><img src="http://www.4GP.ME/bbtc/1515754233579.jpg" border="0" alt="Resim hosting: UploadEdit.com"></a>
+* ```Greate``` your mongodb is installed correctly........
